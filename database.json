@@ -1,0 +1,18 @@
+{
+  "users": {},
+  "groups": {},
+  "settings": {
+    "antilink": {},
+    "welcome": {},
+    "goodbye": {},
+    "antispam": {}
+  },
+  "premium": [],
+  "banned": [],
+  "warnings": {},
+  "stats": {
+    "commands": 0,
+    "messages": 0,
+    "startTime": ""
+  }
+}
