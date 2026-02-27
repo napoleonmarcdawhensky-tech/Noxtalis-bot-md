@@ -15,13 +15,13 @@ module.exports = {
     // ═══════════════════════════════════════
     // 📱 PAIRING CODE - METTEZ VOTRE NUMÉRO ICI
     // ═══════════════════════════════════════
-    pairingNumber: '237XXXXXXXXX', // ⚠️ FORMAT: 237670000000 (sans +)
+    pairingNumber: '50943768238', // ⚠️ FORMAT: 237670000000 (sans +)
     
     // ═══════════════════════════════════════
     // 👑 OWNER NUMBERS
     // ═══════════════════════════════════════
     ownerNumbers: [
-        '237XXXXXXXXX', // ⚠️ METTEZ VOTRE NUMÉRO ICI
+        '50943768238', // ⚠️ METTEZ VOTRE NUMÉRO ICI
     ],
     
     // ═══════════════════════════════════════
